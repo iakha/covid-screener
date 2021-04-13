@@ -1,9 +1,18 @@
 # covid-screener
+
 COVID screening website for schools
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Setup
+
+After cloning the repo;
+
+```bash
+npm i
+```
+
+## Run
 
 First, run the development server:
 
